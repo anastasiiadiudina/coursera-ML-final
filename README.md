@@ -1,2 +1,3 @@
 # coursera-ML-final
-Final project ML
+Final project for coursera Machine Learning with Python (IBM)
+"The best classifier"
